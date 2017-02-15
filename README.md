@@ -1,2 +1,2 @@
 # ng2-seed
-The angular 2 project seed to use for develpment purposes.
+The seed for angular 2 project types for development purpose.
